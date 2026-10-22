@@ -1,10 +1,11 @@
 // P17507 [入门赛 #52] 中秋竹灯
 // https://www.luogu.com.cn/problem/P17507
-#include <bits/stdc++.h>
+#include <iostream>
 using namespace std;
 int main()
 {
-    int x, y, z, result = 0;
+    int x, y, z;
+    long long result = 0;
     cin >> x >> y >> z;
     for (x; x <= y; x++)
     {
