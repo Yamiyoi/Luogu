@@ -2,8 +2,8 @@
 // https://www.luogu.com.cn/problem/P5717
 #include <bits/stdc++.h>
 using namespace std;
-int main(){
-    int a,b,c;
-    cin>>a>>b>>c;
-    
+int main()
+{
+    int a, b, c;
+    cin >> a >> b >> c;
 }
