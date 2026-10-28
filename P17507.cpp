@@ -7,8 +7,7 @@ int main()
     int x, y, z;
     long long result = 0;
     cin >> x >> y >> z;
-    for (x; x <= y; x++)
-    {
+    for (; x <= y; x++) {
         result += x / z;
     }
     cout << result;
